@@ -1,0 +1,3 @@
+[submodule "formulas/mynodeapp"]
+	path = formulas/mynodeapp
+	url = git@github.com:mmm/ensemble-mynodeapp.git
