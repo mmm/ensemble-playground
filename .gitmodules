@@ -1,3 +1,18 @@
 [submodule "formulas/mynodeapp"]
 	path = formulas/mynodeapp
 	url = git@github.com:mmm/ensemble-mynodeapp.git
+[submodule "formulas/mysql"]
+	path = formulas/mysql
+	url = git@github.com:mmm/ensemble-mysql
+[submodule "formulas/postgresql"]
+	path = formulas/postgresql
+	url = git@github.com:mmm/ensemble-postgresql
+[submodule "interfaces"]
+	path = interfaces
+	url = git@github.com:mmm/ensemble-interfaces.git
+[submodule "formulas/hadoop-master"]
+	path = formulas/hadoop-master
+	url = git@github.com:mmm/ensemble-hadoop-master
+[submodule "formulas/hadoop-slave"]
+	path = formulas/hadoop-slave
+	url = git@github.com:mmm/ensemble-hadoop-slave
