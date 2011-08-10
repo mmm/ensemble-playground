@@ -22,3 +22,9 @@
 [submodule "formulas/drupal"]
 	path = formulas/drupal
 	url = git@github.com:mmm/ensemble-drupal.git
+[submodule "formulas/rails"]
+	path = formulas/rails
+	url = git@github.com:mmm/ensemble-rails.git
+[submodule "formulas/varnish"]
+	path = formulas/varnish
+	url = git@github.com:mmm/ensemble-varnish.git
