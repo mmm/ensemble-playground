@@ -19,3 +19,6 @@
 [submodule "formulas/mongodb"]
 	path = formulas/mongodb
 	url = git@github.com:mmm/ensemble-mongodb.git
+[submodule "formulas/drupal"]
+	path = formulas/drupal
+	url = git@github.com:mmm/ensemble-drupal.git
