@@ -16,3 +16,6 @@
 [submodule "formulas/hadoop-slave"]
 	path = formulas/hadoop-slave
 	url = git@github.com:mmm/ensemble-hadoop-slave
+[submodule "formulas/mongodb"]
+	path = formulas/mongodb
+	url = git@github.com:mmm/ensemble-mongodb.git
