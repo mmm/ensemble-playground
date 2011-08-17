@@ -28,3 +28,6 @@
 [submodule "formulas/varnish"]
 	path = formulas/varnish
 	url = git@github.com:mmm/ensemble-varnish.git
+[submodule "formulas/nfs"]
+	path = formulas/nfs
+	url = git@github.com:mmm/ensemble-nfs
